@@ -15,7 +15,7 @@ This case study uses MySQL.
 
 **SQL Topics Required for solving all questions**
 
-Basic aggregations
+ Basic aggregations
  CASE WHEN statements
  Window Functions
  Joins
@@ -27,11 +27,17 @@ Basic aggregations
 **Insights**
 
 ~ The item with the highest price is Product M.
+
 ~ John Doe, Jane Smith and Bob Johnson are the customers who have placed the most orders, in turn making them the most loyal customers.
+
 ~ The order generating the maximum revenue was placed by Sophia Thomas.
+
 ~ May 16, 2023 was recorded as the day that generated the highest revenue for the shop.
+
 ~ Ivy Jones and Sophia Thomas have placed the order for the products bearing the highest price.
+
 ~ Product B has emerged as the most popular product among the shoppers.
+
 ~ The median order total of $112.50 presents a central value, further helping us understand the typical transaction amounts.
 
 
