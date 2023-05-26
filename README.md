@@ -15,13 +15,13 @@ This case study uses MySQL.
 
 **SQL Topics Required for solving all questions**
 
- Basic aggregations
- CASE WHEN statements
- Window Functions
- Joins
- LIMIT Clause
- CTEs
- ROUND, FLOOR, CEIL functions
+ Basic aggregations,
+ CASE WHEN statements,
+ Window Functions,
+ Joins,
+ LIMIT Clause,
+ CTEs,
+ ROUND, FLOOR, CEIL functions,
  GROUP BY & ORDER BY clause
 
 **Insights**
